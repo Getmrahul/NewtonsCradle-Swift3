@@ -1,5 +1,6 @@
 import UIKit
 import PlaygroundSupport
+import XCPlayground
 /*:
 ## Newton's Cradle and UIKit Dynamics
 This playground uses **UIKit Dynamics** to create a [Newton's Cradle](https://en.wikipedia.org/wiki/Newton%27s_cradle). Commonly seen on desks around the world, Newton's Cradle is a device that illustrates conservation of momentum and energy.
